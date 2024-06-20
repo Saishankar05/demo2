@@ -1,0 +1,19 @@
+{
+  "name": "737162",
+  "version": "1.0.0",
+  "description": "this is a selem=nimu program",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash"
+  },
+  "keywords": [
+    "source",
+    "~/.bashrc"
+  ],
+  "author": "nvm list-remote",
+  "license": "ISC"
+}
